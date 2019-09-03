@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:BLE_Test" 
+             x:Class="BLE_Test.MainPage"
+             xmlns:vm="clr-namespace:BLE_Test.ViewModels">
+    
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        
+        <Button Text="Scan" x:Name="Scan_button" Clicked="Handle_Clicked_scan"/>
+        <!--Button Text="Connect" x:Name="Connect_button" Clicked="Handle_Clicked_connect"/-->
+        <Button Text="Service" x:Name="Service_button" Clicked="Handle_Clicked_Service"/>
+        
+        <Label x:Name="Status_label" Text="Status:" HorizontalOptions="Start" VerticalOptions="CenterAndExpand" />
+        
+        <!--
+        <Slider x:Name="Slider1" ValueChanged="Handle_ValueChanged"/>
+        <Label x:Name="Result1" Text="Null"/>
+        -->
+        
+        <ListView x:Name="lv" ItemSelected="lv_ItemSelected" BackgroundColor="White" SeparatorColor="Lime" HorizontalOptions="Center">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout>
+                            <Label Text="{Binding NativeDevice.Id}"/>
+                            <Label Text="{Binding NativeDevice.Name}"/>
+                            
+                        </StackLayout>
+                    </ViewCell>    
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            
+        </ListView>
+    </StackLayout>
+</ContentPage>

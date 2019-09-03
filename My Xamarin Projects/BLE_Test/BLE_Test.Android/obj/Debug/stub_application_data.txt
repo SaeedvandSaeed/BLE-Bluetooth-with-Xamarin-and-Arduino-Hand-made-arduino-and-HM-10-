@@ -1,0 +1,2 @@
+android.app.Application
+com.saeed.BLE_Test

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{77F3AFE7-0BE7-4BA0-82A6-07DECB2CAC18}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BLE_Test/MainPage.xaml.cs">
+    <Files>
+      <File FileName="BLE_Test/MainPage.xaml.cs" Line="128" Column="1" />
+      <File FileName="Source Not Available" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BLE__Test.Android PreferredExecutionTarget="Android.my_device" />
+</Properties>

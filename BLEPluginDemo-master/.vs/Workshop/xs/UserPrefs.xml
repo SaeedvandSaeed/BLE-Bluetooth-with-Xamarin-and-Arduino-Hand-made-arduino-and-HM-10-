@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7653DFBC-C452-4FDF-A817-59F4193193C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Workshop.Android PreferredExecutionTarget="Android.HT4AEW900332" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop/Workshop/Views/DeviceView.xaml.cs">
+    <Files>
+      <File FileName="Workshop/Workshop/Views/DeviceView.xaml" Line="50" Column="15" />
+      <File FileName="Workshop/Workshop/Views/DeviceView.xaml.cs" Line="179" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

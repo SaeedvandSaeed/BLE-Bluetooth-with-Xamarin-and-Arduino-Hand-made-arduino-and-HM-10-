@@ -1,0 +1,12 @@
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/BLE_Test.csprojAssemblyReference.cache
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/BLE_Test.csproj.CoreCompileInputs.cache
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/BLE_Test.AssemblyInfoInputs.cache
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/BLE_Test.AssemblyInfo.cs
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/BLE_Test.dll
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/BLE_Test.pdb
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/bin/Debug/netstandard2.0/BLE_Test.deps.json
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/bin/Debug/netstandard2.0/BLE_Test.dll
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/bin/Debug/netstandard2.0/BLE_Test.pdb
+/Users/saeedsaeedvand/Desktop/My Xamarin Projects/BLE_Test/BLE_Test/obj/Debug/netstandard2.0/XamlC.stamp

@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "c72325e8be5b89c3d9f9d47e2a34478a477fecf4"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "BLE_Test/1.0.0": {
+        "dependencies": {
+          "MvvmCross.Plugin.BLE": "1.3.0",
+          "NETStandard.Library": "2.0.3",
+          "Plugin.BLE": "1.3.0",
+          "Xamarin.Forms": "3.5.0.129452"
+        },
+        "runtime": {
+          "BLE_Test.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "MvvmCross.Plugin.BLE/1.3.0": {
+        "runtime": {
+          "lib/portable-net45+win8+wpa81+wp8/MvvmCross.Plugins.BLE.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Plugin.BLE/1.3.0": {
+        "runtime": {
+          "lib/portable-net45+win8+wpa81+wp8/Plugin.BLE.Abstractions.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          },
+          "lib/portable-net45+win8+wpa81+wp8/Plugin.BLE.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/3.5.0.129452": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLE_Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "MvvmCross.Plugin.BLE/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y5ErgIXC23Ef5XaBV7yMt/+Uo1jpi65pGsJ4uVyYqtuVJ/aTGIyXaCj6/FRy+oOJbMNA+5AE9pp6Myfpxwglqg==",
+      "path": "mvvmcross.plugin.ble/1.3.0",
+      "hashPath": "mvvmcross.plugin.ble.1.3.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Plugin.BLE/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5zISlRkf7SrklXTOefdrRmapQS6lDQS2LR9JfqMYTWYYIYfJ5sRmtA5wTf2UcSPMTxGxh8H0IrWXgXwqLb2bLQ==",
+      "path": "plugin.ble/1.3.0",
+      "hashPath": "plugin.ble.1.3.0.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.5.0.129452": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KzD3ZBRKvVspTMtdLTCDBJ6thf2Pi6AUYuIIKwzTf/6WOtelgpe2Zq0aj/eAgVNO52qx4OGTmcscjuf9nOZVvA==",
+      "path": "xamarin.forms/3.5.0.129452",
+      "hashPath": "xamarin.forms.3.5.0.129452.nupkg.sha512"
+    }
+  }
+}
